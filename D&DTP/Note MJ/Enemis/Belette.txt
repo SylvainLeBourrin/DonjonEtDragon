@@ -1,0 +1,27 @@
+Belette
+[ Weasel ]
+Bête de taille TP, sans alignement
+Classe d'armure 13
+Points de vie 1 (1d4 - 1)
+Vitesse 9 m
+FOR
+3 (-4)
+DEX
+16 (+3)
+CON
+8 (-1)
+INT
+2 (-4)
+SAG
+12 (+1)
+CHA
+3 (-4)
+Compétences Discrétion +5, Perception +3
+Sens Perception passive 13
+Langues —
+Puissance 0 (10 PX)
+
+Odorat et ouïe aiguisés. La belette a un avantage aux jets de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
+ACTIONS
+
+Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 1 dégât perforant.
